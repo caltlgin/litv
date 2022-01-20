@@ -1,12 +1,16 @@
-<a href="https://archive.org/details/new-world-order-bible-versions-full-movie" title="Why the King James Bible?"><img src="https://i.imgur.com/A9piMKc.png" width="250" align="right"></a>
+# litv
 
-# kjv [![AUR](https://img.shields.io/badge/AUR-kjv--git-blue.svg)](https://aur.archlinux.org/packages/kjv-git/)
+Read the **Green's Literal Translation** Bible from your terminal
 
-Read the Word of God from your terminal
+> And confessedly, great is the mystery of godliness: God was manifested in
+> flesh, was justified in Spirit, was seen by angels, was proclaimed among
+> nations, was believed on in the world, was taken up in glory. (1 Timothy 3:16)
+
+- Big thanks to [Tim Cooper](https://github.com/bontibon/kjv) for the codebase
 
 ## Usage
 
-    usage: kjv [flags] [reference...]
+    usage: litv [flags] [reference...]
 
     Flags:
       -A num  show num verses of context after matching verses
@@ -43,10 +47,10 @@ Read the Word of God from your terminal
 
 ## Build
 
-kjv can be built by cloning the repository and then running make:
+litv can be built by cloning the repository and then running make:
 
-    git clone https://github.com/bontibon/kjv.git
-    cd kjv
+    git clone https://github.com/caltlgin/litv.git
+    cd litv
     make
 
 ## License
