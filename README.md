@@ -2,9 +2,9 @@
 
 Read the **Green's Literal Translation** Bible from your terminal
 
-> And confessedly, great is the mystery of godliness: God was manifested in
-> flesh, was justified in Spirit, was seen by angels, was proclaimed among
-> nations, was believed on in the world, was taken up in glory. (1 Timothy 3:16)
+> And confessedly, great is the mystery of godliness: **God** was manifested in
+> flesh, was justified in **S**pirit, was seen by angels, was proclaimed among
+> nations, was believed **on** in the world, was taken up in glory. (1 Timothy 3:16)
 
 - Big thanks to [Tim Cooper](https://github.com/bontibon/kjv) for the codebase
 
